@@ -1,0 +1,52 @@
+[
+{
+    "id":1,
+    "name": "Chevy",
+    "price": 15000,
+    "year": 2015,
+        "contact":{
+            "dealer":"Mahdi",
+            "number": "111-111-111"
+        }
+},
+{
+    "id":2,
+    "name": "Ford",
+    "price": 50000,
+    "year": 2019,
+        "contact":{
+        "dealer":"Abid",
+        "number": "111-111-111"
+    }
+},
+{
+    "id":3,
+    "name": "Bentley",
+    "price": 150000,
+    "year": 2018,
+        "contact":{
+        "dealer":"Adil",
+        "number": "111-111-111"
+    }
+},
+{
+    "id":4,
+    "name": "Toyota",
+    "price": 35000,
+    "year": 2010,
+        "contact":{
+        "dealer":"Ashraful",
+        "number": "111-111-111"
+    }
+},
+{
+    "id":5,
+    "name": "Nissan",
+    "price": 25000,
+    "year": 2020,
+        "contact":{
+        "dealer":"JHON",
+        "number": "111-111-111"
+    }
+}
+]
